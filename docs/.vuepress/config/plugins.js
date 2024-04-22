@@ -4,7 +4,7 @@ module.exports = [
   [
     {
       name: "custom-plugins",
-      globalUIComponents: ["BlockToggle", "GlobalTip", "Aplayer"], // 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
+      clientAppRootComponentFiles: ["BlockToggle", "Aplayer"], //, "GlobalTip" 2.x 版本 globalUIComponents 改名为 clientAppRootComponentFiles
     },
   ],
   [
