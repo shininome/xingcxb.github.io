@@ -10,7 +10,7 @@ npm run build
 cd docs/.vuepress/dist
 
 # deploy to github pages
-echo 'https://shininome.github.io/shinonomeow.github.io/ ' > CNAME
+# echo 'https://shininome.github.io/shinonomeow.github.io/ ' > CNAME
 
 echo 'google.com,  DIRECT, f08c47fec0942fa0' > ads.txt
 
