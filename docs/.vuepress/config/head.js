@@ -8,7 +8,7 @@ module.exports = [
     "link",
     {
       rel: "shortcut icon",
-      href: "https://cdn.jsdelivr.net/gh/xingcxb/blog_img@blog1/blog/basic/favicon.ico",
+      href: "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
     },
   ], //favicons，资源放在public文件夹
   [
@@ -57,23 +57,4 @@ module.exports = [
   //     },
   //   ],
 
-  // 百度统计 js
-  ["script", {}, baidutj],
-  [
-    "script",
-    {
-      async: "async",
-      src: "https://www.googletagmanager.com/gtag/js?id=G-Q9XQS90GYB",
-    },
-  ],
-  // 谷歌统计 js
-  ["script", {}, googletj],
-  [
-    "script",
-    {
-      async: "async",
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1725717718088510",
-      crossorigin: "anonymous",
-    },
-  ], // 网站关联Google AdSense 与 html格式广告支持
 ];

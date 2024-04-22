@@ -14,9 +14,9 @@ module.exports = [
       options: {
         clientID: "51e233f2dada49dcdac8",
         clientSecret: "38cc569d9433f9113c256ef3cf0b25ade576f5cc",
-        repo: "xingcxb.github.io", // 仓库
-        owner: "xingcxb", //所有者
-        admin: ["xingcxb"],
+        repo: "shinonomeow.github.io", // 仓库
+        owner: "shininome", //所有者
+        admin: ["shininome"],
         distractionFreeMode: false,
         pagerDirection: "last", // 'first'正序 | 'last'倒序
         id: "<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>", //  页面的唯一标识,长度不能超过50
@@ -27,12 +27,12 @@ module.exports = [
     },
   ],
   ["vuepress-plugin-mermaidjs"],
-  ["sitemap", { hostname: "https://xingcxb.com" }],
+  ["sitemap", { hostname: "https://shinonomoew.top/" }],
   // 谷歌统计代码
   [
     "@vuepress/google-analytics",
     {
-      ga: "UA-98291551-1", //替换成自己实际申请的ID
+      ga: "G-TXYGGRTGY5", //替换成自己实际申请的ID
     },
   ],
   "vuepress-plugin-baidu-autopush", // 百度自动推送
@@ -90,12 +90,6 @@ module.exports = [
       },
     },
   ],
-  [
-    "vuepress-plugin-baidu-tongji", // 百度统计
-    {
-      hm: "efdb43e9c4335da1fbabf3840b82c3ed",
-    },
-  ],
   // 顶部阅读进度插件
   ["reading-progress"],
   // 动态标题，官网：https://moefyit.github.io/moefy-vuepress/packages/dynamic-title.html
@@ -103,11 +97,11 @@ module.exports = [
     "dynamic-title",
     {
       showIcon:
-        "https://cdn.jsdelivr.net/gh/xingcxb/blog_img@blog1/blog/basic/favicon.ico",
-      showText: "ヾ(≧▽≦*)o欢迎回来！",
+        "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
+      showText: "ヾ(≧▽≦*)o喵喵喵喵！",
       hideIcon:
-        "https://cdn.jsdelivr.net/gh/xingcxb/blog_img@blog1/blog/basic/favicon.ico",
-      hideText: "ಥ_ಥ不要走呀！",
+        "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
+      hideText: "ಥ_ಥ喵喵喵喵！",
       recoverTime: 2000, //  持续时间
     },
   ],

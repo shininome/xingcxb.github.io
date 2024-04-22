@@ -6,7 +6,7 @@ const title = "研究所";
 // 文章右上角点击名字的跳转链接
 const link = "https://shinonomoew.top/";
 // 底部的 | 后的描述
-const footerTitle = "小窝";
+const footerTitle = "研究所";
 // 头像图片
 const avatar =
   "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/Avatar.jpg";
