@@ -12,8 +12,8 @@ module.exports = [
     {
       choosen: "gitalk",
       options: {
-        clientID: "51e233f2dada49dcdac8",
-        clientSecret: "38cc569d9433f9113c256ef3cf0b25ade576f5cc",
+        clientID: "334bd66f29e29bf222e5",
+        clientSecret: "a1869dd151bf7f08745525158763ae12f585b308",
         repo: "shinonomeow.github.io", // 仓库
         owner: "shininome", //所有者
         admin: ["shininome"],

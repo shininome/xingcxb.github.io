@@ -9,26 +9,14 @@ tagline: 喵喵喵喵
 pageClass: vdoing-index-class
 bannerBg: https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/background/hakase.png
 
-features: # 可选的
-  - title: 笔记
-    details: Go、Vue框架等技术笔记
-    link: /language/ # 可选
-    imgUrl: https://cdn.jsdelivr.net/gh/xingcxb/blog_img@blog1/blog/basic/stickers.png
-  - title: 吐槽
-    details: 口嗨一句
-    link: /speak/
-    imgUrl: https://cdn.jsdelivr.net/gh/xingcxb/blog_img@blog1/blog/basic/speak.png
-  - title: 阅读
-    details: 读书笔记
-    link: /read/
-    imgUrl: https://cdn.jsdelivr.net/gh/xingcxb/blog_img@blog1/blog/basic/reading.png
+# features: # 可选的
+
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: detailed
 ---
 
 <!-- 小熊猫 -->
 <!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
-
 <ClientOnly>
   <IndexBigImg />
 </ClientOnly>
