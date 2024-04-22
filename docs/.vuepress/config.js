@@ -20,7 +20,7 @@ module.exports = {
       lang: "zh-CN",
       title: penName + title,
       description:
-        "无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物。",
+        "天空又矮又圆，大地又平又方。一下跳进宇宙深空，一下钻进大陆背面。普伦西它拿着铁棒，到处敲打恶棍流氓。喵喵！",
     },
   },
   plugins,
