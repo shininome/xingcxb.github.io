@@ -9,7 +9,7 @@ const link = "https://shinonomoew.top/";
 const footerTitle = "小窝";
 // 头像图片
 const avatar =
-  "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/Avatar.png";
+  "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/Avatar.jpg";
 // 头像下的昵称
 const name = "東雲";
 // 头像下的签名
