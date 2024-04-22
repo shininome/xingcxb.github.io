@@ -1,13 +1,13 @@
 ---
 home: true
 # heroImage: https://symbol-node.oss-cn-shanghai.aliyuncs.com/blog/basic/background.jpg
-heroText: 東雲喵
+heroText: 東雲研究所
 tagline: 喵喵喵喵
 # actionText: 立刻进入 →
 # actionLink: /web/
 # bannerBg: custom #custom自定义 # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 pageClass: vdoing-index-class
-bannerBg: https://cdn.jsdelivr.net/gh/xingcxb/blog_img@blog1/blog/background/62494753_p0.jpg
+bannerBg: https://cdn.jsdelivr.net/gh/shininone/blog_imgs@blog1/blog/background/sagiri.jpg
 
 features: # 可选的
   - title: 笔记

@@ -117,17 +117,12 @@ module.exports = {
       {
         iconClass: "icon-youjian",
         title: "发邮件",
-        link: "mailto:xingcxb@qq.com",
+        link: "mailto:gtx2shino@gmail.com",
       },
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/xingcxb",
-      },
-      {
-        iconClass: "icon-erji",
-        title: "听音乐",
-        link: "https://music.163.com/#/playlist?id=503418750",
+        link: "https://github.com/shininome/",
       },
     ],
   },
