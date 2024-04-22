@@ -5,7 +5,7 @@ module.exports = {
   items: [
     {
       text: "Python",
-      link: "/python/",
+      link: "/Python/",
     },
   ],
 };
