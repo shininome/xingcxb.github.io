@@ -97,10 +97,10 @@ module.exports = [
     "dynamic-title",
     {
       showIcon:
-        "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
+        "https://gcore.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
       showText: "ヾ(≧▽≦*)o喵喵喵喵！",
       hideIcon:
-        "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
+        "https://gcore.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
       hideText: "ಥ_ಥ喵喵喵喵！",
       recoverTime: 2000, //  持续时间
     },

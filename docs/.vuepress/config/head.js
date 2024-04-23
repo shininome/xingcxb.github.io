@@ -8,7 +8,7 @@ module.exports = [
     "link",
     {
       rel: "shortcut icon",
-      href: "https://cdn.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
+      href: "https://gcore.jsdelivr.net/gh/shininome/blog_imgs@blog/blog/basic/favicon.ico",
     },
   ], //favicons，资源放在public文件夹
   [
