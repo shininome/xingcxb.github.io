@@ -15,14 +15,14 @@ module.exports = {
     extractHeaders: ["h2", "h3", "h4"], // 支持 h2、h3、h4 标题
   },
   // 多语言支持
-  locales: {
-    "/": {
-      lang: "zh-CN",
-      title: penName + title,
-      description:
-        "天空又矮又圆，大地又平又方。一下跳进宇宙深空，一下钻进大陆背面。普伦西它拿着铁棒，到处敲打恶棍流氓。喵喵！",
-    },
-  },
+  // locales: {
+  //   "/": {
+  //     lang: "zh-CN",
+  title: penName + title,
+  description:
+    "天空又矮又圆，大地又平又方。一下跳进宇宙深空，一下钻进大陆背面。普伦西它拿着铁棒，到处敲打恶棍流氓。喵喵！",
+  //   },
+  // },
   plugins,
   themeConfig,
 };
