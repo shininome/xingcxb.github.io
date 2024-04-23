@@ -29,13 +29,12 @@ module.exports = [
   ["vuepress-plugin-mermaidjs"],
   ["sitemap", { hostname: "https://shinonomoew.top/" }],
   // 谷歌统计代码
-  [
-    "@vuepress/google-analytics",
-    {
-      ga: "G-TXYGGRTGY5", //替换成自己实际申请的ID
-    },
-  ],
-  "vuepress-plugin-baidu-autopush", // 百度自动推送
+  // [
+  //   "@vuepress/google-analytics",
+  //   {
+  //     ga: "G-TXYGGRTGY5", //替换成自己实际申请的ID
+  //   },
+  // ],
   // 可以添加第三方搜索链接的搜索框（原官方搜索框的参数仍可用）
   [
     "thirdparty-search",

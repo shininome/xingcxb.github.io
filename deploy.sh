@@ -12,7 +12,7 @@ cd docs/.vuepress/dist
 # deploy to github pages
 echo 'shinonomoew.top' > CNAME
 
-echo 'google.com,  DIRECT, f08c47fec0942fa0' > ads.txt
+echo 'google.com,  DIRECT' > ads.txt
 
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'

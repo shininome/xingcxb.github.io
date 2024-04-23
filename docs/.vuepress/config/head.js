@@ -34,13 +34,6 @@ module.exports = [
         "shino",
     },
   ],
-  [
-    "meta",
-    {
-      name: "google-site-verification",
-      content: "JfM7Cg2a2jlGXV2PfkH7sIRWZmcTa1aDCOHMaQH2UuE",
-    },
-  ],
   ["meta", { name: "baidu-site-verification", content: "code-OBocxvg8ja" }],
   ["meta", { name: "theme-color", content: "#11a8cd" }], // 移动浏览器主题颜色
 

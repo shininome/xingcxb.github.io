@@ -91,18 +91,18 @@ module.exports = {
   sidebarB: `<!-- 正方形 -->`,
   pageT: `<!-- 固定100% * 90px可显示，max-height:90px未见显示-->`,
   // pageTshowMode: 'article',
-  pageB: `<!-- 横向自适应 -->
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1725717718088510"
-        crossorigin="anonymous"></script>
-      <ins class="adsbygoogle"
-        style="display:block; text-align:center;"
-        data-ad-layout="in-article"
-        data-ad-format="fluid"
-        data-ad-client="ca-pub-1725717718088510"
-        data-ad-slot="7426219401"></ins>
-      <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>`,
+  // pageB: `<!-- 横向自适应 -->
+  //       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1725717718088510"
+  //       crossorigin="anonymous"></script>
+  //     <ins class="adsbygoogle"
+  //       style="display:block; text-align:center;"
+  //       data-ad-layout="in-article"
+  //       data-ad-format="fluid"
+  //       data-ad-client="ca-pub-1725717718088510"
+  //       data-ad-slot="7426219401"></ins>
+  //     <script>
+  //       (adsbygoogle = window.adsbygoogle || []).push({});
+  //     </script>`,
   // pageBshowMode: 'article',
   // windowLB: // 会遮挡部分侧边栏
   //   `<!-- 固定200*200px -->
