@@ -1,6 +1,12 @@
 // 插件配置
+const feed_options = {
+  canonical_base: 'https://shinonomoew.top',
+  count: 5000,
+};
+
 module.exports = [
   // 自定义插件，即本地插件
+  ['feed', feed_options],
   [
     {
       name: "custom-plugins",
@@ -29,12 +35,12 @@ module.exports = [
   ["vuepress-plugin-mermaidjs"],
   ["sitemap", { hostname: "https://shinonomoew.top/" }],
   // 谷歌统计代码
-  // [
-  //   "@vuepress/google-analytics",
-  //   {
-  //     ga: "G-TXYGGRTGY5", //替换成自己实际申请的ID
-  //   },
-  // ],
+  [
+    'google-analytics-4',
+    {
+      gtag: 'G-0356YMD7GY'
+    }
+  ],
   // 可以添加第三方搜索链接的搜索框（原官方搜索框的参数仍可用）
   [
     "thirdparty-search",

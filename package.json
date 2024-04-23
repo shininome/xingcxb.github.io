@@ -26,6 +26,7 @@
     "vuepress-plugin-cursor-effects": "^1.1.6",
     "vuepress-plugin-demo-block": "^0.7.2",
     "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-plugin-feed": "^0.1.9",
     "vuepress-plugin-fulltext-search": "^2.2.1",
     "vuepress-plugin-mermaidjs": "^1.9.1",
     "vuepress-plugin-meting": "^0.3.3",
@@ -42,6 +43,7 @@
     "busuanzi.pure.js": "^1.0.3",
     "vue-tabs-component": "^1.5.0",
     "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-google-analytics-4": "^0.1.1",
     "vuepress-plugin-tabs": "^0.3.0"
   }
 }
