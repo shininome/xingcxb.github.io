@@ -492,7 +492,7 @@ function nextAllTipElement(elem) {
 
 /* 页脚的颜色 */
 .vdoing-index-class .footer {
-  color: #fff;
+  color: #000000;
 }
 
 .vdoing-index-class .search-box1 input {
@@ -545,8 +545,8 @@ function nextAllTipElement(elem) {
   width: 20px;
   height: 20px;
   display: block;
-  border-right: 3px solid #fff;
-  border-top: 3px solid #fff;
+  border-right: 3px solid #FFE1D2;
+  border-top: 3px solid #FFE1D2;
   transform: rotate(135deg);
   position: absolute;
   bottom: 10px;
@@ -557,8 +557,8 @@ function nextAllTipElement(elem) {
   width: 20px;
   height: 20px;
   display: block;
-  border-right: 3px solid #fff;
-  border-top: 3px solid #fff;
+  border-right: 3px solid #FFE1D2;
+  border-top: 3px solid #FFE1D2;
   transform: rotate(135deg);
 }
 
